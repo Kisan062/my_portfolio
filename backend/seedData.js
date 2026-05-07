@@ -11,7 +11,7 @@ const connectDB = async () => {
     try {
       const fs = require('fs');
       const source = "C:\\Users\\sk776\\OneDrive\\Pictures\\Screenshots\\Screenshot 2026-05-07 084329.png";
-      const dest = "C:\\Users\\sk776\\Downloads\\portfolio-fullstack\\portfolio-fullstack\\frontend\\public\\images\\packetscope_screenshot.png";
+      const dest = "C:\\Users\\sk776\\Downloads\\portfolio-fullstack\\frontend\\public\\images\\packetscope_screenshot.png";
       if (fs.existsSync(source)) {
         fs.copyFileSync(source, dest);
         console.log('📸 Screenshot copied successfully!');
