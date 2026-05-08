@@ -262,7 +262,7 @@ Contributions, issues, and feature requests are welcome!
 
 Your Name - Sarvjeet Kumar
 
-Project Link: https://github.com/Kisan062/my_portfolio
+Project Link: https://my-portfolio-weld-three-20.vercel.app/
 ---
 
-Made with ❤️ using React & Node.js
+
