@@ -260,10 +260,9 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+Your Name - Sarvjeet Kumar
 
-Project Link: [https://github.com/yourusername/portfolio](https://github.com/yourusername/portfolio)
-
+Project Link: https://github.com/Kisan062/my_portfolio
 ---
 
 Made with ❤️ using React & Node.js
